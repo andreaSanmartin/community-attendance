@@ -1,0 +1,12 @@
+{
+  "APP_NAME": "Community Attendance",
+  "APP_TAGLINE": "Registro de asistencia",
+  "APP_SLOGAN": "",
+  "APP_LOGO": "assets/branding/logo.png",
+  "APP_LOGO_ON_DARK": "assets/branding/logo_on_dark.png",
+  "APP_PRIMARY_COLOR": "0xFF101B3D",
+  "APP_PRIMARY_SOFT_COLOR": "0xFF1A274B",
+  "APP_ACCENT_COLOR": "0xFFE11D2E",
+  "APP_ACCENT_DARK_COLOR": "0xFFBE1625",
+  "API_BASE_URL": "http://10.0.2.2:8000"
+}
